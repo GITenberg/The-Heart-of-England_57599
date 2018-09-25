@@ -1,0 +1,26 @@
+_repo: The-Heart-of-England_57599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas, Edward
+    aliases:
+    - Thomas, Philip Edward
+    - Eastaway, Edward
+    birthdate: 1878
+    deathdate: 1917
+    gutenberg_agent_id: '6876'
+    url: http://www.gutenberg.org/2009/agents/6876
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
+description: ''
+gutenberg_issued: '2018-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Heart of England
+url: http://www.gutenberg.org/ebooks/57599
