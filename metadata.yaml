@@ -1,5 +1,8 @@
 _repo: The-Heart-of-England_57599
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57599-h/images/zill_inside_cover_l.jpg
 creator:
   author:
     agent_name: Thomas, Edward
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6876
     wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57599#The-Heart-of-England
 gutenberg_issued: '2018-07-29'
 gutenberg_type: Text
 identifiers:
